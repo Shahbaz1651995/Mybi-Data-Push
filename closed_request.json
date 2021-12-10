@@ -1,0 +1,12 @@
+{
+	"MyBI_Username":"svc_AUTO_CTS",
+	"MyBI_Password":"Cerner123",
+	"ReportPath": "/shared/system/SOAP_AUTO_CTS/Closed Requests",
+	"DBUsername": "cts1",
+	"DBPassword": "Cerner123!",
+	"DBServerName": "ctsanalyticsprod",
+	"DBName": "SSE Global Dashboard",
+	"DBTableCRClosed": "Closed_Requests"
+	
+}
+
